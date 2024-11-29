@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JorgeLeyva_A1 Consola/1.0.0": {
+        "runtime": {
+          "JorgeLeyva_A1 Consola.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JorgeLeyva_A1 Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

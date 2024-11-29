@@ -1,0 +1,10 @@
+C:\Users\davvi\source\repos\Actividad_1\Actividad_1\bin\Debug\Actividad_1.exe.config
+C:\Users\davvi\source\repos\Actividad_1\Actividad_1\bin\Debug\Actividad_1.exe
+C:\Users\davvi\source\repos\Actividad_1\Actividad_1\bin\Debug\Actividad_1.pdb
+C:\Users\davvi\source\repos\Actividad_1\Actividad_1\obj\Debug\Actividad_1.csproj.AssemblyReference.cache
+C:\Users\davvi\source\repos\Actividad_1\Actividad_1\obj\Debug\Actividad_1.Form1.resources
+C:\Users\davvi\source\repos\Actividad_1\Actividad_1\obj\Debug\Actividad_1.Properties.Resources.resources
+C:\Users\davvi\source\repos\Actividad_1\Actividad_1\obj\Debug\Actividad_1.csproj.GenerateResource.cache
+C:\Users\davvi\source\repos\Actividad_1\Actividad_1\obj\Debug\Actividad_1.csproj.CoreCompileInputs.cache
+C:\Users\davvi\source\repos\Actividad_1\Actividad_1\obj\Debug\Actividad_1.exe
+C:\Users\davvi\source\repos\Actividad_1\Actividad_1\obj\Debug\Actividad_1.pdb
